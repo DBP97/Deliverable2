@@ -1,0 +1,15 @@
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/bin/Debug/net6.0/Deliverable_2
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/bin/Debug/net6.0/Deliverable_2.deps.json
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/bin/Debug/net6.0/Deliverable_2.runtimeconfig.json
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/bin/Debug/net6.0/Deliverable_2.dll
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/bin/Debug/net6.0/Deliverable_2.pdb
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/obj/Debug/net6.0/Deliverable_2.csproj.AssemblyReference.cache
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/obj/Debug/net6.0/Deliverable_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/obj/Debug/net6.0/Deliverable_2.AssemblyInfoInputs.cache
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/obj/Debug/net6.0/Deliverable_2.AssemblyInfo.cs
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/obj/Debug/net6.0/Deliverable_2.csproj.CoreCompileInputs.cache
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/obj/Debug/net6.0/Deliverable_2.dll
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/obj/Debug/net6.0/refint/Deliverable_2.dll
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/obj/Debug/net6.0/Deliverable_2.pdb
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/obj/Debug/net6.0/Deliverable_2.genruntimeconfig.cache
+/Users/deep/ISM4300/Projects/Deliverable_2/Deliverable_2/obj/Debug/net6.0/ref/Deliverable_2.dll
